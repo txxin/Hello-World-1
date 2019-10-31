@@ -130,6 +130,7 @@
 - [Tamas Csonka](https://github.com/csnktms)
 - [Tarun Kumar](https://github.com/tarun1642)
 - [Taylor Gagne](https://github.com/taylor009)
+- [Terri Xin](https://github.com/txxin)
 - [TheSolution90](https://github.com/thesolution90)
 - [Thomas Scharke](https://github.com/tscharke)
 - [Thomas Windt](https://github.com/WOLFI3654)
